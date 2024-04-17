@@ -141,7 +141,7 @@ project:
         + Simple cave generation system using combination of Simplex noises
         + Implementation of Marching Cubes algorithm using compute shaders (Very fast, everything calculated on graphics card)
         + Ability to modify terrain in real time
-        ![kkgh](https://github.com/hlepps/KKGH/assets/44844164/6f317ffd-b3ff-40ad-ba4f-acd09b9ea4ad) {width=50%}
+        ![kkgh](https://github.com/hlepps/KKGH/assets/44844164/6f317ffd-b3ff-40ad-ba4f-acd09b9ea4ad =x512)
       
 
     - name: BoxCraft
@@ -159,7 +159,7 @@ project:
         + Building functional buildings such as camps, storages, barracks, towers
         + Ability to make unit selection groups
         + Simple AI Fights between friendly and enemy units
-        ![boxcraft](https://github.com/hlepps/BoxCraft/assets/44844164/280000c3-de70-4bc6-8efb-29253b29fdbe)
+        ![boxcraft](https://github.com/hlepps/BoxCraft/assets/44844164/280000c3-de70-4bc6-8efb-29253b29fdbe | width = 512px)
 
     - name: pomaCAD
       link: 'http://pomaview.pl/pomacad.pl/'

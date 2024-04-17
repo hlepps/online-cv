@@ -141,7 +141,7 @@ project:
         + Simple cave generation system using combination of Simplex noises
         + Implementation of Marching Cubes algorithm using compute shaders (Very fast, everything calculated on graphics card)
         + Ability to modify terrain in real time
-        ![kkgh](https://github.com/hlepps/KKGH/assets/44844164/6f317ffd-b3ff-40ad-ba4f-acd09b9ea4ad" width="50%)
+        ![kkgh](kkgh.gif)
       
 
     - name: BoxCraft
@@ -159,7 +159,7 @@ project:
         + Building functional buildings such as camps, storages, barracks, towers
         + Ability to make unit selection groups
         + Simple AI Fights between friendly and enemy units
-        ![boxcraft](https://github.com/hlepps/BoxCraft/assets/44844164/280000c3-de70-4bc6-8efb-29253b29fdbe" width="50%)
+        ![boxcraft](boxcraft.gif)
 
     - name: pomaCAD
       link: 'http://pomaview.pl/pomacad.pl/'
@@ -168,7 +168,7 @@ project:
       description: |
         App written in C#, WPF.
         It is a software used by stair makers to help with their work at designing stairs and staircases. It's main function is to fetch data from the measuring device and process it so it will be usable in staircase design software. In addition to it, it has couple additional functions that make the work cheaper and quicker by many hours per project.
-        ![pomacad](https://hlepps.github.io/pomacad.png)
+        ![pomacad](pomacad.png)
 
     - name: Komusou
       link: https://pryzmat.itch.io/komusou
@@ -183,7 +183,7 @@ project:
         + Various weapons, skills
         + Different enemies on each 'biome'
         + Boss fights
-        ![komusou](https://img.itch.zone/aW1hZ2UvNTAxMjEzLzI1OTM2OTYucG5n/original/EjMDsI.png)
+        ![komusou](komusou.png)
         
     - name: Gondola
       link: https://gamejolt.com/games/gndl/395815
@@ -197,7 +197,7 @@ project:
         + Quest system
         + Voice dub
         + Path finding
-        ![gondola](https://m.gjcdn.net/game-screenshot/1100/1774535-hguvyymh-v4.webp)
+        ![gondola](gondola.webp)
 
 
 skill:

@@ -159,7 +159,7 @@ project:
         + Building functional buildings such as camps, storages, barracks, towers
         + Ability to make unit selection groups
         + Simple AI Fights between friendly and enemy units
-        ![boxcraft](https://github.com/hlepps/BoxCraft/assets/44844164/280000c3-de70-4bc6-8efb-29253b29fdbe)
+        <img src="https://github.com/hlepps/BoxCraft/assets/44844164/280000c3-de70-4bc6-8efb-29253b29fdbe" alt="boxcraft" width=100%/>
 
     - name: pomaCAD
       link: 'http://pomaview.pl/pomacad.pl/'
@@ -244,7 +244,7 @@ skill:
         - WinForms
         - C++
         - Python
-        - HTML/CSS
+        - HTML&CSS
     - name: I have some knowledge of
       item:
         - Unreal Engine 5

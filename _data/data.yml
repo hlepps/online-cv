@@ -212,7 +212,7 @@ skill:
   items:
     - name: Procedural mesh generation
       level: 5
-    - name: Enumerators and multitasking
+    - name: Coroutines
       level: 5
     - name: Writing shaders
       level: 3

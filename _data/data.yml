@@ -14,7 +14,7 @@ contact:
 
   gender: male                 # gender or pronoun
   birthday: 7th November 2001               # birthday
-  nationality: polish            # nationality
+  nationality: Polish            # nationality
   visa:                    # passport visa
   drivinglicense:          # driving licence
 
@@ -93,14 +93,23 @@ experience:
     Here is my professional experience working as a Programmer
 
   items:
+    - company: Bialic Pomagalski
+      link: https://bialic.pl/
+      tags: Freelance 
+      date: 2021 - 2023
+      role: C#, Unity programmer
+      location: Wrocław, Remote
+      description: |
+        Various smaller and bigger projects simplifying workflow and creating visualizations in WebGL and AR
+
     - company: Fabryka Gier
-      link: fabrykagier.pl
+      link: https://www.fabrykagier.pl
       tags: Internship
       date: 2019.09
       role: Unity programmer
       location: Szczecin
       description: |
-        In a team of 3 people, we were tasked to create a game in Unity. The final result is described in Projects
+        In a team of 3 people, we were tasked to create a game in Unity. The final result is described in Projects (Komusou)
         + First
         + Second
 
@@ -121,18 +130,47 @@ project:
     Projects I've took part in:
 
   items:
+    - name: KKGH
+      link: https://github.com/hlepps/KKGH
+      tags: wip
+      date: 2024
+      description: |
+        My Engineering Thesis, a 3D game in Unity.
+        The topic is: Implementation of a procedural algorithm for generating three-dimensional terrains that can be modified in real time in the form of a computer game.
+        Work in progress. Current features:
+        + Simple cave generation system using combination of Simplex noises
+        + Implementation of Marching Cubes algorithm using compute shaders (Very fast, everything calculated on graphics card)
+        + Ability to modify terrain in real time
+        ![kkgh - edytowanie](https://github.com/hlepps/KKGH/assets/44844164/6f317ffd-b3ff-40ad-ba4f-acd09b9ea4ad)
+      
+
+    - name: BoxCraft
+      link: https://github.com/hlepps/BoxCraft
+      tags:
+      date: 2023
+      description: |
+        3D Unity Game made during one semester of game dev course in college
+        Features:
+        + Tower defense real time strategy
+        + Path finding
+        + Multiple types of units to control such as workers, soldiers, mages, healers
+        + Procedurally generated map
+        + Units can gather resources
+        + Building functional buildings such as camps, storages, barracks, towers
+        + Ability to make unit selection groups
+        + Simple AI Fights between friendly and enemy units
+
     - name: pomaCAD
-      link: '#'
+      link: 'http://pomaview.pl/pomacad.pl/'
       tags:
       date: 2022 - 2023
       description: |
         App written in C#, WPF.
         It is a software used by stair makers to help with their work at designing stairs and staircases. It's main function is to fetch data from the measuring device and process it so it will be usable in staircase design software. In addition to it, it has couple additional functions that make the work cheaper and quicker by many hours per project.
-        
 
     - name: Komusou
-      link: pryzmat.itch.io/komusou
-      tags: committer
+      link: https://pryzmat.itch.io/komusou
+      tags: 
       date: 2019
       description: |
         2D Unity Game made in 1 month during internship at Fabryka Gier
@@ -141,8 +179,22 @@ project:
         + Infinite, random level
         + Dynamically changing theme based on player progress (both audio and visual)
         + Various weapons, skills
-        + Different enemies on each 'biomes'
+        + Different enemies on each 'biome'
         + Boss fights
+        
+    - name: Gondola
+      link: https://gamejolt.com/games/gndl/395815
+      tags: 
+      date: 2018
+      description: |
+        My first finished game in Unity. I was responsible for programming and audio design. It's source code is available 
+        Features:
+        + Point and click adventure game
+        + Equipment system
+        + Quest system
+        + Voice dub
+        + Path finding
+
 
 skill:
   show: true

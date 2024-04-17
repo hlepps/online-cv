@@ -168,7 +168,7 @@ project:
       description: |
         App written in C#, WPF.
         It is a software used by stair makers to help with their work at designing stairs and staircases. It's main function is to fetch data from the measuring device and process it so it will be usable in staircase design software. In addition to it, it has couple additional functions that make the work cheaper and quicker by many hours per project.
-        ![pomacad](https://hlepps.github.io/pomacad.png)
+        <img src="https://hlepps.github.io/pomacad.png" alt="pomacad" width=100%/>
 
     - name: Komusou
       link: https://pryzmat.itch.io/komusou
@@ -183,7 +183,7 @@ project:
         + Various weapons, skills
         + Different enemies on each 'biome'
         + Boss fights
-        ![komusou](https://img.itch.zone/aW1hZ2UvNTAxMjEzLzI1OTM2OTYucG5n/original/EjMDsI.png)
+        <img src="https://img.itch.zone/aW1hZ2UvNTAxMjEzLzI1OTM2OTYucG5n/original/EjMDsI.png" alt="komusou" width=100%/>
         
     - name: Gondola
       link: https://gamejolt.com/games/gndl/395815
@@ -197,7 +197,7 @@ project:
         + Quest system
         + Voice dub
         + Path finding
-        ![gondola](https://m.gjcdn.net/game-screenshot/1100/1774535-hguvyymh-v4.webp)
+        <img src="https://m.gjcdn.net/game-screenshot/1100/1774535-hguvyymh-v4.webp" alt="gondola" width=100%/>
 
 
 skill:

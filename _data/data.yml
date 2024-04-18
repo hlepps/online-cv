@@ -83,7 +83,7 @@ profile:
   order: 1
   title: Profile
   description: |
-    Hi, my name is Piotr, I'm a young C# and Unity programmer - that means I have experience im programming various games in Unity but I have also used C# outside of the game engine, creating apps in, for example, WPF and WinForms. 
+    Hi, my name is Piotr, I'm a young C# and Unity programmer - that means I have experience in programming various games in Unity but I have also used C# outside of the game engine, creating apps in, for example, WPF and WinForms. 
     Currently, I'm in my sixth semester of studies (out of seven).
 
 experience:
@@ -91,7 +91,7 @@ experience:
   order: 2
   title: Experiences
   description: |
-    Here is my professional experience working as a Programmer
+    Here is my professional experience working as a Programmer:
 
   items:
     - company: Bialic Pomagalski
@@ -101,7 +101,7 @@ experience:
       role: C#, Unity programmer
       location: Wrocław, Remote
       description: |
-        Various smaller and bigger projects simplifying workflow and creating visualizations in WebGL and AR
+        Various smaller and bigger projects simplifying workflow and creating visualizations in WebGL and AR (pomaCAD)
 
     - company: Fabryka Gier
       link: https://www.fabrykagier.pl
@@ -128,7 +128,7 @@ project:
   order: 3
   title: Projects
   description: |
-    Projects I've took part in:
+    Some of the projects I've took part in:
 
   items:
     - name: KKGH
@@ -181,7 +181,7 @@ project:
       tags: 
       date: 2019
       description: |
-        2D Unity Game made in 1 month during internship at Fabryka Gier. I was responsible for programming and audio design.
+        2D Unity Game made in 1 month during internship at Fabryka Gier. I was responsible for programming and some audio design.
 
         Features:
         + Side scrolling shooter

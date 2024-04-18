@@ -141,6 +141,7 @@ project:
         + Simple cave generation system using combination of Simplex noises
         + Implementation of Marching Cubes algorithm using compute shaders (Very fast, everything calculated on graphics card)
         + Ability to modify terrain in real time
+        
         ![kkgh](kkgh.gif)
       
 
@@ -159,6 +160,7 @@ project:
         + Building functional buildings such as camps, storages, barracks, towers
         + Ability to make unit selection groups
         + Simple AI Fights between friendly and enemy units
+        
         ![boxcraft](boxcraft.gif)
 
     - name: pomaCAD
@@ -168,6 +170,7 @@ project:
       description: |
         App written in C#, WPF.
         It is a software used by stair makers to help with their work at designing stairs and staircases. It's main function is to fetch data from the measuring device and process it so it will be usable in staircase design software. In addition to it, it has couple additional functions that make the work cheaper and quicker by many hours per project.
+        
         ![pomacad](pomacad.png)
 
     - name: Komusou
@@ -183,6 +186,7 @@ project:
         + Various weapons, skills
         + Different enemies on each 'biome'
         + Boss fights
+
         ![komusou](komusou.png)
         
     - name: Gondola
@@ -197,6 +201,7 @@ project:
         + Quest system
         + Voice dub
         + Path finding
+
         ![gondola](gondola.webp)
 
 
@@ -280,13 +285,13 @@ language:
   order: 6
   title: Languages
   description: |
-    I'm native polish speaker.
-    I'm also quite fluent in English, although my biggest flaw is spoken English - I understand everything, but sometimes I lack words and I need to search them in my head which causes stuttering.
+    
   items:
     - idiom: Polish
       level: Native
     - idiom: English
       level: C1
+      link: https://hlepps.github.io/EnglishScore_Summary_Report.pdf
 
 interest:
   show: true

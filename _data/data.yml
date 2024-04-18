@@ -84,6 +84,7 @@ profile:
   title: Profile
   description: |
     Hi, my name is Piotr, I'm a young C# and Unity programmer - that means I have experience im programming various games in Unity but I have also used C# outside of the game engine, creating apps in, for example, WPF and WinForms. 
+    Currently, I'm in my sixth semester of studies (out of seven).
 
 experience:
   show: true
@@ -308,8 +309,6 @@ interest:
     Programming is not the only thing I do, here are some of my hobbies and interest that I do in my free time
   items:
     - item: Playing video games
-      link:
-    - item: Creating audio effects and music
       link:
     - item: Playing board games and card games
       link:

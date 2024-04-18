@@ -184,6 +184,7 @@ project:
 
         Features:
         + Side scrolling shooter
+        + Implementation of software design patterns such as object pooling
         + Infinite, random level
         + Dynamically changing theme based on player progress (both audio and visual)
         + Various weapons, skills
@@ -197,8 +198,8 @@ project:
       tags: 
       date: 2018
       description: |
-        My first finished game in Unity. I was responsible for programming and audio design. It's source code is available 
-        
+        My first finished game in Unity. I was responsible for programming and audio design. It's source code is available on my GitHub
+
         Features:
         + Point and click adventure game
         + Equipment system
@@ -254,6 +255,8 @@ skill:
         - C++
         - Python
         - HTML&CSS
+        - SQL (mySQL, SQLite, PostgreSQL)
+        - Javascript
     - name: I have some knowledge of
       item:
         - Unreal Engine 5
@@ -325,4 +328,9 @@ evaluation:
     Although I am young, I am already quite experienced in working with Unity. I've stumbled upon many bugs, complicated tasks and obstacles that I overcome, and I'm eager to experience even more.
     My favorite tasks and jobs are those during which I can learn something new and interesting, for example new genre of a game, unique feature, or something that for some reason will gain my interest.
     Beside Unity, I'm open to explore new engines and frameworks, I've used Unreal Engine, Godot, Clickteam Fusion, SFML, Raylib and some more for small projects, but Unity is my all-time favorite.
+    
+
+    Legal notice (RODO):
+    Wyrażam zgodę na przetwarzanie danych osobowych zawartych w niniejszym dokumencie dla potrzeb niezbędnych do realizacji procesu rekrutacji zgodnie z ustawą z dnia 10 maja 2018 r. o ochronie danych osobowych (Dz. U. z 2018 r. poz. 1000) oraz zgodnie z Rozporządzeniem Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych).
+
 close: <strong>Sorry, my resume has been hidden.</strong>

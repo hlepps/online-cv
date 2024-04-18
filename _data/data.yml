@@ -137,6 +137,7 @@ project:
       description: |
         My Engineering Thesis, a 3D game in Unity.
         The topic is: Implementation of a procedural algorithm for generating three-dimensional terrains that can be modified in real time in the form of a computer game.
+
         Work in progress. Current features:
         + Simple cave generation system using combination of Simplex noises
         + Implementation of Marching Cubes algorithm using compute shaders (Very fast, everything calculated on graphics card)
@@ -151,6 +152,7 @@ project:
       date: 2023
       description: |
         3D Unity Game made during one semester of game dev course in college
+
         Features:
         + Tower defense real time strategy
         + Path finding
@@ -179,6 +181,7 @@ project:
       date: 2019
       description: |
         2D Unity Game made in 1 month during internship at Fabryka Gier. I was responsible for programming and audio design.
+
         Features:
         + Side scrolling shooter
         + Infinite, random level
@@ -195,6 +198,7 @@ project:
       date: 2018
       description: |
         My first finished game in Unity. I was responsible for programming and audio design. It's source code is available 
+        
         Features:
         + Point and click adventure game
         + Equipment system
@@ -285,7 +289,7 @@ language:
   order: 6
   title: Languages
   description: |
-    
+    Certificate: https://hlepps.github.io/EnglishScore_Summary_Report.pdf
   items:
     - idiom: Polish
       level: Native

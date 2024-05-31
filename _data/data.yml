@@ -101,7 +101,7 @@ experience:
       role: C#, Unity programmer
       location: Wrocław, Remote
       description: |
-        Various smaller and bigger projects simplifying workflow and creating visualizations in WebGL and AR (pomaCAD)
+        Various smaller and bigger projects simplifying workflow and creating visualizations in WebGL and AR (pomaviewer, pomaCAD)
 
     - company: Fabryka Gier
       link: https://www.fabrykagier.pl
@@ -145,7 +145,7 @@ project:
         ![kkgh](kkgh.gif)
 
     - name: pomaviewer
-      link: http://pomaviewer.pl
+      link: http://pomaview.pl
       tags: 
       date: 2024
       description: |
